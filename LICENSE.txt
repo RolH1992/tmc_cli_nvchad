@@ -47,9 +47,9 @@ Usage Restrictions
 
 This configuration is provided for educational and demonstration purposes only. You are responsible for:
 
--Complying with the licenses of all integrated software
+- Complying with the licenses of all integrated software
 - Using TMC services in accordance with your educational institution's policies
--  Respecting copyrights and licenses of all third-party software
+- Respecting copyrights and licenses of all third-party software
 
 No Warranty
 
