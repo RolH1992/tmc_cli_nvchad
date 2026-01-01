@@ -27,11 +27,9 @@ Third-Party Software Notice
 This project integrates and configures the following third-party software:
 1. tmc-cli-rust
 
-    Source: https://github.com/rage/tmc-cli-rust
-
-    License: MIT (see original repository for full license text)
-
-    Note: This is NOT my code - all credit goes to the original authors
+- Source: https://github.com/rage/tmc-cli-rust
+- License: MIT (see original repository for full license text)
+- Note: This is NOT my code - all credit goes to the original authors
 
 2. NVCHAD
 
@@ -49,11 +47,9 @@ Usage Restrictions
 
 This configuration is provided for educational and demonstration purposes only. You are responsible for:
 
-    Complying with the licenses of all integrated software
-
-    Using TMC services in accordance with your educational institution's policies
-
-    Respecting copyrights and licenses of all third-party software
+-Complying with the licenses of all integrated software
+- Using TMC services in accordance with your educational institution's policies
+-  Respecting copyrights and licenses of all third-party software
 
 No Warranty
 
