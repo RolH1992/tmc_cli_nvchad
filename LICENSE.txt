@@ -1,0 +1,60 @@
+MIT License
+
+Important Note: This repository contains configurations and documentation for integrating existing software. The primary integrated software (tmc-cli-rust) has its own separate license from its original authors.
+License for THIS Repository (Configuration & Documentation Only)
+
+Copyright (c) [Year] [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Third-Party Software Notice
+
+This project integrates and configures the following third-party software:
+1. tmc-cli-rust
+
+    Source: https://github.com/rage/tmc-cli-rust
+
+    License: MIT (see original repository for full license text)
+
+    Note: This is NOT my code - all credit goes to the original authors
+
+2. NVCHAD
+
+    Source: https://github.com/NvChad/NvChad
+
+    License: GPL-3.0 (see original repository for full license text)
+
+3. Neovim
+
+    Source: https://github.com/neovim/neovim
+
+    License: Apache 2.0 (see original repository for full license text)
+
+Usage Restrictions
+
+This configuration is provided for educational and demonstration purposes only. You are responsible for:
+
+    Complying with the licenses of all integrated software
+
+    Using TMC services in accordance with your educational institution's policies
+
+    Respecting copyrights and licenses of all third-party software
+
+No Warranty
+
+This integration is provided "as is" without any guarantees of functionality or compatibility with future versions of NVCHAD, tmc-cli-rust, or TMC services.
